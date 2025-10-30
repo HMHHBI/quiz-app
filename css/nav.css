@@ -1,0 +1,42 @@
+/* nav.css */
+.main-nav {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  flex: 1;
+  gap: 15px;
+}
+
+/* Navigation Links */
+.nav-links {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  list-style: none;
+  gap: 10px;
+}
+
+.nav-links a li {
+  border-radius: 8px;
+  padding: 10px 15px;
+  font-weight: bold;
+  transition: all 0.3s ease;
+}
+
+.nav-links a li { background-color: #e8e68b; }
+
+.nav-links a li:hover {
+  filter: brightness(0.5);
+}
+
+.nav-links a {
+  text-decoration: none;
+  color: #1b1624;
+}
+
+.nav-links a:focus {
+  font-size: large;
+  color: #1b1624;
+}

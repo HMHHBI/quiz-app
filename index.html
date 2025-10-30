@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Quiz App - Made Easy your Learning Journey.</title>
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/header.css" />
+    <link rel="stylesheet" href="/css/nav.css" />
+    <link rel="stylesheet" href="/css/quiz.css" />
+    <link rel="stylesheet" href="/css/footer.css" />
+  </head>
+  <body>
+    <header>
+      <div class="brand">
+        <a class="topic-link" href="#" class="logo" style="color: #e8e68b;"><h1>HMH Quiz App</h1></a>
+        <p>Made Easy your Learning Journey.</p>
+      </div>
+      <nav class="main-nav">
+        <ul class="nav-links">
+          <a class="topic-link" href="html"><li>HTML</li></a>
+          <a class="topic-link" href="css"><li>CSS</li></a>
+          <a class="topic-link" href="js"><li>JS</li></a>
+          <a class="topic-link" href="react"><li>React</li></a>
+          <a class="topic-link" href="nodejs"><li>NodeJS</li></a>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <div class="quiz-box">
+        <div class="quiz-header">
+          <h1>Quiz</h1>
+          <h1 id="quiz-topic">HMH Quiz App</h1>
+          <p id="timer">⏳ Time: 00:00</p>
+        </div>
+        <div class="quiz-quest-area">
+          <div class="quiz-quest"></div>
+          <button id="submit" class="submit">Submit ➡</button>
+        </div>
+      </div>
+    </main>
+    <footer>
+      <div>
+        <p>
+          All rights reserved for HMH Daily ToDo's.
+          <span><a href="#">Copyright &copy; 2025.</a></span>
+        </p>
+      </div>
+    </footer>
+    <script type="module" src="./js/main.js"></script>
+    <script type="module" src="./js/local-storage.js"></script>
+  </body>
+</html>
