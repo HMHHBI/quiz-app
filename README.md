@@ -1,4 +1,4 @@
-# 🧮 HMH Calculator
+# 🧮 HMH Quiz App
 
 [![GitHub Pages](https://img.shields.io/badge/Deployed-GitHub%20Pages-blue?style=flat-square&logo=github)](https://hmhhbi.github.io/quiz-app/)
 [![Made with JavaScript](https://img.shields.io/badge/Made%20with-JavaScript-yellow?style=flat-square&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
