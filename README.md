@@ -10,7 +10,7 @@ This project features memory functions, calculation history, and keyboard suppor
 ---
 
 ## 🚀 Live Demo
-🔗 **[Click here to use the Calculator](https://hmhhbi.github.io/quiz-app/)**
+🔗 **[Click here to use my Quiz App.](https://hmhhbi.github.io/quiz-app/)**
 
 ![Calculator Preview](https://raw.githubusercontent.com/HMHHBI/calculator/main/preview.png)
 
