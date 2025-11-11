@@ -12,7 +12,7 @@ This project features memory functions, calculation history, and keyboard suppor
 ## 🚀 Live Demo
 🔗 **[Click here to use my Quiz App.](https://hmhhbi.github.io/quiz-app/)**
 
-![Calculator Preview](https://raw.githubusercontent.com/HMHHBI/quiz-app/main/preview.png)
+![Quiz-App Preview](https://raw.githubusercontent.com/HMHHBI/quiz-app/main/preview.png)
 
 > 💡 *(Tip: Upload a screenshot named `preview.png` in your repo to show it above.)*
 
